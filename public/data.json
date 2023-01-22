@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.minecraft.net/content/dam/games/dungeons/logos/dungeons-pmp-dlcbundle-boxart-500x500.jpg",
+        "title": "PAQUETE DE DLC ULTIMATE",
+        "content": "Ya has jugado a Minecraft Dungeons, pero ahora es el momento de obtener la historia completa con el paquete de DLC Ultimate. Juega a todo el DLC y experimenta la historia desde el principio hasta el final."
+    },
+    {
+        "id": 2,
+        "image": "https://www.minecraft.net/content/dam/games/dungeons/logos/dungeons-pmp-void-boxart-500x500.jpg",
+        "title": "ECHOING VOID",
+        "content": "Experimenta el final con el DLC Echoing Void. Enfréntate a nuevos enemigos, colecciona equipo y recorre nuevas misiones desafiantes para poner fin a este combate, de una vez por todas."
+    },
+    {
+        "id": 3,
+        "image": "https://www.minecraft.net/content/dam/games/minecraft/logos/Dungeons-PMP_DLC-Hidden-Depths_Boxart-500x500.jpg",
+        "title": "PROFUNDIDADES OCULTAS",
+        "content": "¡Sumérgete en tu próxima aventura con el nuevo DLC Minecraft Dungeons: Profundidades Ocultas! Prepárate y zambúllete con nuevas misiones, tesoros hundidos y enemigos."
+    },
+    {
+        "id": 4,
+        "image": "https://www.minecraft.net/content/dam/games/dungeons/logos/Dungeons-PMP_DLC-Flame-of-the-Nether_Boxart-500x500_03.jpg",
+        "title": "LLAMAS DEL INFRAMUNDO",
+        "content": "Llega el calor al Inframundo de Minecraft Dungeons con el DLC más ambicioso hasta la fecha. No te pierdas las nuevas misiones, las asombrosas ubicaciones y los artículos únicos."
+    },
+    {
+        "id": 5,
+        "image": "https://www.minecraft.net/content/dam/games/dungeons/logos/Dungeons-PMP_DLC-Howling-Peaks_Boxart-500x500_02.jpg",
+        "title": "HOWLING PEAKS",
+        "content": "El peligro aguarda en lo alto de los poderosos picos y se necesita un héroe para detener la tormenta que se avecina. La ruta hacia la cumbre te conducirá a nuevas criaturas y misiones, y un nuevo equipo. ¡Solo evita mirar hacia abajo!"
+    },
+    {
+        "id": 6,
+        "image": "https://www.minecraft.net/content/dam/games/dungeons/logos/boxart-dlc2.jpg",
+        "title": "INVIERNO ESPELUZNANTE",
+        "content": "Estas tierras azotadas por la escarcha necesitan un héroe urgentemente. Emprende nuevas misiones y vence a las criaturas implacables en tu viaje para derrotar al Espectro de dragón en el centro de la tormenta. Este DLC viene incluido en la Edición de héroe."
+    }
+]
